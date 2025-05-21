@@ -1,6 +1,6 @@
 # Actividad 3 - Programación Orientada a Objetos
 
-### Integrantes:
+##Integrante
 |Nombre completo                       |Correo                  |Git user            |
 |--------------------------------------|------------------------|--------------------|
 |José Joaquín Sánchez Bernal           |josanchezbe@unal.edu.co | juniorsanchez1999  |
